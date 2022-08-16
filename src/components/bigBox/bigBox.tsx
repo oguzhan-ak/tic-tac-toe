@@ -17,7 +17,6 @@ const BigBox = (props: any) => {
           );
         })}
       </div>
-      ;
     </>
   );
 };
