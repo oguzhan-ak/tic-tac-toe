@@ -11,16 +11,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Start
 
-![İMAGE](start.png)
+![İMAGE](https://github.com/oguzhan-ak/tic-tac-toe/blob/master/screenshots/start.png)
 
 ## Mid
 
-![İMAGE](mid.png)
+![İMAGE](https://github.com/oguzhan-ak/tic-tac-toe/blob/master/screenshots/mid.png)
 
 ## NoWin
 
-![İMAGE](nowin.png)
+![İMAGE](https://github.com/oguzhan-ak/tic-tac-toe/blob/master/screenshots/nowin.png)
 
 ## Win
 
-![İMAGE](win.png)
+![İMAGE](https://github.com/oguzhan-ak/tic-tac-toe/blob/master/screenshots/win.png)
