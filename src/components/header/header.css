@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+.buttonPlayAgain {
+  color: white;
+  background-color: rgb(218, 45, 45);
+  margin-bottom: 10px;
+}
+.buttonRestart {
+  color: white;
+  background-color: rgb(29, 16, 209);
+  margin-bottom: 10px;
+}
